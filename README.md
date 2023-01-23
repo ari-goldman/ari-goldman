@@ -9,8 +9,7 @@
 - C++
 
 ### Languages I'm learning
-- HTML
-- CSS
+- HTML/CSS
 - JavaScript
 - Kotlin
 
