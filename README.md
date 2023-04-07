@@ -6,7 +6,7 @@
 - Processing
 - Java
 - Python (somewhat)
-- C++
+- C/C++
 
 ### Languages I'm learning
 - HTML/CSS
@@ -17,4 +17,4 @@
 - Spigot plugins
 - Shaders
 - Apps for school
-- Websites
+- Websites (mostly UI/UX)
