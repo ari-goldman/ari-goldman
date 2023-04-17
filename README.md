@@ -18,3 +18,5 @@
 - Shaders
 - Apps for school
 - Websites (mostly UI/UX)
+
+(my old github was [*ogpanda18*](github.com/OGPanda18), this one was created in spring 2022)
