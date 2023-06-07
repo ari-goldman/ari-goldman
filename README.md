@@ -1,22 +1,28 @@
-### Who am I 
+### Who?
 - I'm a computer science student currently attending CU Boulder
-- I like software development, but am looking to expand my horizons and get into different things!
+- I like software development, but I love getting into new things all the time!
 
-### Things I know
-- Processing
-- Java
-- Python (somewhat)
-- C/C++
-- Web development (front and back)
+### Things I think I know
+- C/C++ 🐀
+- Java 🐧
+- Python 🐍
+- HTML, CSS ✨
+- JavaScript 🛠️
+- SQL 🫙
 
-### Languages I'm learning
-- OpenGL
-- Kotlin
+### Things I want to know
+- Rust 🦀
+- OpenGL (shaders) 🎨
+- Kotlin 🤔
 
-### Thing I like trying to make:
+### Thing I like trying to make
 - Spigot plugins
 - Shaders
 - Apps for school
-- Websites (mostly frontend)
+- Websites (mostly frontend, some back)
 
-(my old github was [*ogpanda18*](https://github.com/ogpanda18), I switched accounts in spring 2022)
+### Some *"websites"* I made
+- [shapes](https://ari-goldman.github.io/splitting-shapes/)
+- [waves](https://ari-goldman.github.io/ascii-functions/)
+
+> *(my old github was [*ogpanda18*](https://github.com/ogpanda18), I switched accounts in spring 2022)*
