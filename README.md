@@ -1,6 +1,6 @@
 ### Who?
-- I'm a computer science student currently attending CU Boulder
-- I like software development, but I love getting into new things all the time!
+- I'm a second year computer science student currently attending CU Boulder
+- I love creating visually pleasing things that also provide useful functions!
 
 ### Things I think I know
 - C/C++ 🐀
@@ -9,17 +9,16 @@
 - HTML, CSS ✨
 - JavaScript 🛠️
 - SQL 🫙
+- OpenGL and GLSL 🎨
 
 ### Things I want to know
 - Rust 🦀
-- OpenGL (shaders) 🎨
 - Kotlin 🤔
 
 ### Thing I like trying to make
-- Spigot plugins
-- Shaders
+- OpenGL projects (visualizations)
 - Apps for school
-- Websites (mostly frontend, some back)
+- Interesting websites (mostly frontend, some back)
 
 ### Some *"websites"* I made
 - [shapes](https://ari-goldman.github.io/splitting-shapes/)
