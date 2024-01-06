@@ -1,3 +1,5 @@
+[me](https://ari-goldman.github.io/website-of-me/)
+
 ### Who?
 - I'm a second year computer science student currently attending CU Boulder
 - I love creating visually pleasing things that also provide useful functions!
@@ -22,7 +24,7 @@
 - Interesting websites (mostly frontend, some back)
 
 ### Some *"websites"* I made
-- [soon-to-be my website](https://github.com/ari-goldman/website-of-me/settings/pages) 
+- [my website](https://ari-goldman.github.io/website-of-me/) 
 - [shapes](https://ari-goldman.github.io/splitting-shapes/)
 - [waves](https://ari-goldman.github.io/ascii-functions/)
 
