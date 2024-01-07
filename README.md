@@ -1,4 +1,6 @@
-[me](https://ari-goldman.github.io/website-of-me/)
+<hl></hl>
+# [click here for my website/portfolio!](https://ari-goldman.github.io/website-of-me/)
+<hl></hl>
 
 ### Who?
 - I'm a second year computer science student currently attending CU Boulder
