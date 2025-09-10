@@ -3,11 +3,12 @@
 <hl></hl>
 
 ### who?
-- I'm a third year computer science student currently attending CU Boulder
+- I'm a senior Computer Science student currently attending the University of Colorado Boulder
+  - Minoring in Computer Engineering and German Studies
   - I also work there as a Software Developer Intern :)
 - I love creating visually pleasing things that also provide useful functions!
 
-### things I know
+### things I know:
 - C/C++ 🐀
 - Java 🐧
 - Python 🐍
@@ -15,17 +16,15 @@
 - JavaScript 🛠️
 - SQL 🫙
 - OpenGL and GLSL 🎨
+- Godot 🤖
 
-### things I'm working on knowing
-- WebGL so I can put my OpenGL projects on the web, since compiling them can be a pain depending on the OS 🤓
-- Making stuff in Godot and Unity
-
-### things I like trying to make
+### things I like trying to make:
 - OpenGL projects
 - Apps for school
 - Interesting websites (mostly frontend, some back)
+- Fun experiences in Godot
 
-### some *"websites"* I made
+### some *websites* I made:
 - [my website](https://ari-goldman.github.io/website-of-me/) 
 - [shapes](https://ari-goldman.github.io/splitting-shapes/)
 - [waves](https://ari-goldman.github.io/ascii-functions/)
