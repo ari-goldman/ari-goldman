@@ -1,5 +1,5 @@
 <hl></hl>
-# [click here for my website/portfolio!](https://ari-goldman.github.io/website-of-me/)
+# [click here for my portfolio!](https://goobst.dev)
 <hl></hl>
 
 ### who?
@@ -23,10 +23,5 @@
 - Apps for school
 - Interesting websites (mostly frontend, some back)
 - Fun experiences in Godot
-
-### some *websites* I made:
-- [my website](https://ari-goldman.github.io/website-of-me/) 
-- [shapes](https://ari-goldman.github.io/splitting-shapes/)
-- [waves](https://ari-goldman.github.io/ascii-functions/)
 
 > *(my old github was [*ogpanda18*](https://github.com/ogpanda18), I switched accounts in spring 2022)*
